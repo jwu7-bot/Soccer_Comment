@@ -9,3 +9,14 @@
  Fans are keen to voice their thoughts, offer insights, and talk about player performances in real time in the current digital era. Fans will have a consolidated, 
  easily navigable area to share highlights, rate players, write comments, and interact with other soccer fans that share their interests on this platform. With this site, 
  spectators will be able to comment on goals that win games or assess individual players' performances, bringing them closer to the action.
+
+# Features
+ Player Profiles: View and comment on soccer players.
+ User Interaction: Fans can rate performances, add comments, and engage with each other.
+ Comment Management: Edit and manage personal comments.
+ User Authentication: Register, log in, and maintain a user profile.
+
+# Technologies
+ Backend: PHP
+ Frontend: HTML, CSS
+ Database: SQL
